@@ -1,0 +1,23 @@
+.plus-badge {
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgb(63, 169, 255) 0%, rgb(156, 50, 255) 35%, rgb(255, 187, 0) 100%);
+}
+li .nav-link:focus {
+    color: black;
+}
+li .nav-link:hover {
+    color: yellow;
+}
+li .nav-link:active {
+    color: red;
+}
+li .nav-link {
+    text-decoration: none;
+    color: black;
+}
+input[type="search"] {
+    border: none;
+}
+input[type="search"] {
+    border-bottom: 1px solid rgb(150, 150, 150);
+}

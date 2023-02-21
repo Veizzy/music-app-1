@@ -1,0 +1,11 @@
+.list-group-item:hover {
+z-index: 1;
+outline: 5px solid yellow;
+}
+.progress {
+
+width: 40%;
+}
+.progress-bar {
+    transition: 2s;
+}
